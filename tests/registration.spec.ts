@@ -1,6 +1,6 @@
 import { test, expect } from '../fixtures/baseTest';
 import { LoginPage } from '../pages/loginPage';
-import { SignupPage } from '../pages/SignupPage';
+import { SignupPage } from '../pages/signupPage';
 import { generateRandomUser } from '../utils/dataGenerator';
 
 test.describe('User Registration Tests', () => {
